@@ -1,0 +1,106 @@
+{
+  "styles": [
+    {
+      "name": "American Comics",
+      "description": "Style contemporain des comics américains avec des rendus dynamiques et des couleurs vives",
+      "references": [
+        {
+          "artist": "Jim Lee",
+          "works": ["X-Men", "Batman", "Superman Unchained"]
+        },
+        {
+          "artist": "Alex Ross",
+          "works": ["Kingdom Come", "Marvels", "Justice"]
+        },
+        {
+          "artist": "Stuart Immonen",
+          "works": ["Ultimate Spider-Man", "New Avengers", "Star Wars"]
+        }
+      ]
+    },
+    {
+      "name": "Japanese Manga",
+      "description": "Style manga japonais avec des expressions dynamiques et des effets dramatiques",
+      "references": [
+        {
+          "artist": "Katsuhiro Otomo",
+          "works": ["Akira", "Domu", "Steamboy"]
+        },
+        {
+          "artist": "Naoki Urasawa",
+          "works": ["Monster", "20th Century Boys", "Pluto"]
+        },
+        {
+          "artist": "Takehiko Inoue",
+          "works": ["Vagabond", "Slam Dunk", "Real"]
+        }
+      ]
+    }
+  ],
+  "genres": [
+    "Superhero",
+    "Science Fiction",
+    "Fantasy",
+    "Adventure",
+    "Mystery",
+    "Horror",
+    "Drama"
+  ],
+  "epochs": [
+    "Ancient Times",
+    "Medieval",
+    "Renaissance",
+    "Industrial Revolution",
+    "Modern Day",
+    "Near Future",
+    "Far Future",
+    "Post-Apocalyptic"
+  ],
+  "macguffins": [
+    "The Cosmic Artifact",
+    "The Ancient Scroll",
+    "The Power Crystal",
+    "The Lost Technology",
+    "The Sacred Relic",
+    "The Mysterious Device",
+    "The Enchanted Object",
+    "The Secret Formula",
+    "The Hidden Map",
+    "The Legendary Weapon"
+  ],
+  "hero": [
+    "Sarah, 28, short dark hair, blue eyes, a bit rude, wearing simple attire.",
+    "Akira, 16, long black hair, brown eyes, calm, dressed in a uniform.",
+    "Aisha, 32, curly brown hair, green eyes, creative, in colorful garments.",
+    "Diego, 35, wavy black hair, brown eyes, passionate, no beard, in casual wear.",
+    "Mei, 25, straight black hair, black eyes, determined, in athletic clothing.",
+    "Raj, 29, short black hair, brown eyes, innovative, with a trimmed beard, in modern attire.",
+    "Fatima, 31, long black hair, brown eyes, courageous, wearing a light covering.",
+    "Yuki, 27, long black hair, black eyes, mysterious, in traditional garments.",
+    "Liam, 33, curly red hair, green eyes, charismatic, with a full beard, in comfortable clothing.",
+    "Zara, 28, short black hair, brown eyes, fearless, in explorer's attire.",
+    "Hiroshi, 70, shaved head, brown eyes, wise, with a long beard, in simple robes.",
+    "Amara, 26, long black hair, brown eyes, expressive, in flowing attire.",
+    "Kofi, 34, short black hair, brown eyes, resourceful, with a goatee, in patterned clothing.",
+    "Elena, 30, long brown hair, green eyes, passionate, in practical attire.",
+    "Santiago, 32, short black hair, brown eyes, daring, with a mustache, in aviator's attire.",
+    "Leila, 29, long brown hair, brown eyes, talented, in elegant clothing.",
+    "Nikolai, 36, short blond hair, blue eyes, brilliant, clean-shaven, in formal attire.",
+    "Jamal, 35, short black hair, brown eyes, perceptive, with a beard and mustache, in detective's attire.",
+    "Anika, 30, long black hair, brown eyes, gentle, in comfortable clothing.",
+    "Mateo, 31, short brown hair, brown eyes, skilled, with stubble, in work attire.",
+    "Sofia, 29, long brown hair, green eyes, visionary, in casual attire.",
+    "Hassan, 60, short gray hair, brown eyes, wise, with a thick beard, in traditional clothing.",
+    "Isabella, 27, long black hair, brown eyes, brave, in protective attire.",
+    "Yara, 32, long brown hair, brown eyes, talented, in cozy clothing.",
+    "Kai, 26, short blond hair, blue eyes, daring, clean-shaven, in casual attire.",
+    "Lina, 30, short blond hair, blue eyes, dedicated, in professional clothing.",
+    "Omar, 34, short black hair, brown eyes, skilled, with a beard, in sailor's attire.",
+    "Priya, 31, long black hair, brown eyes, brilliant, in scientific attire.",
+    "Rafael, 33, short brown hair, brown eyes, passionate, with a mustache and beard, in casual clothing.",
+    "Emma, 18, long blond hair, blue eyes, adventurous, in casual attire.",
+    "Hans, 65, short gray hair, blue eyes, thoughtful, with a mustache, in warm clothing.",
+    "Sophie, 22, short brown hair, green eyes, cheerful, in light attire.",
+    "Lars, 40, short blond hair, blue eyes, practical, with a beard, in casual clothing."
+  ]
+}

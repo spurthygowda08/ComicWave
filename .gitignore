@@ -1,0 +1,17 @@
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# Backend
+server/node_modules/
+server/.env
+server/.venv/
+
+# Ignore ALL Python cache files
+__pycache__/
+*.pyc
+
+# General
+Thumbs.db
+.DS_Store

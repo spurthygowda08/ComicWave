@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "server"
+version = "0.1.0"
+description = "Don't Look Up - A post-apocalyptic story game"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.109.0"
+uvicorn = "^0.27.0"
+python-dotenv = "^1.0.0"
+langchain = "^0.1.0"
+langchain-mistralai = "^0.0.3"
+aiohttp = "^3.9.1"
+pydantic = "^2.5.3"
+elevenlabs = "^0.2.26"
+
+[tool.poetry.scripts]
+dev = "scripts.run_server:main"
+test-game = "scripts.test_game:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 
